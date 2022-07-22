@@ -3,8 +3,8 @@
     flex-direction: column;
     text-align: center;
     padding-top: 2em;
-    padding-left: 12em;
-    padding-right: 12em;
+    width: 50%;
+    margin: 0 auto;
 }
 
 .post {
