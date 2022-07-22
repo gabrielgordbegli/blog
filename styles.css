@@ -13,7 +13,7 @@
     flex-direction: column;
     text-align: left;
     padding-top: 2em;
-    padding-left: 22em;
-    padding-right: 22em;
+    width: 50%;
+    margin: 0 auto;
     padding-bottom: 2em;
 }
