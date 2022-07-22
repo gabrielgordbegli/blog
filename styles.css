@@ -1,0 +1,19 @@
+.title {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 2em;
+    padding-left: 12em;
+    padding-right: 12em;
+}
+
+.post {
+    display: flex;
+    font-size: large;
+    flex-direction: column;
+    text-align: left;
+    padding-top: 2em;
+    padding-left: 22em;
+    padding-right: 22em;
+    padding-bottom: 2em;
+}
