@@ -17,3 +17,13 @@
     margin: 0 auto;
     padding-bottom: 2em;
 }
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 2em;
+    width: 20%;
+    min-width: 100px;
+    margin: 0 auto;
+}
