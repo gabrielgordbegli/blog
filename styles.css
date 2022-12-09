@@ -27,3 +27,8 @@
     min-width: 100px;
     margin: 0 auto;
 }
+
+iframe, object, embed {
+    max-width: 100%;
+    max-height: 100%;
+}
